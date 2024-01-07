@@ -7,6 +7,9 @@
 // @match        https://atcoder.jp/contests/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=atcoder.jp
 // @grant        none
+// @updateURL    https://github.com/burioden/AtCoder-quotation-adder/blob/main/script.user.js
+// @downloadURL  https://github.com/burioden/AtCoder-quotation-adder/blob/main/script.user.js
+// @supportURL   https://github.com/burioden/AtCoder-quotation-adder/
 // ==/UserScript==
 
 (function() {

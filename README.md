@@ -5,7 +5,7 @@ A問題がもっと爆速になるね！
 
 [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja) などを先にインストールしてお使いください。
 
-[Tampermonkeyへのインストール](https://github.com/burioden/AtCoder-quotation-adder/script.user.js)
+[Tampermonkeyへのインストール](https://github.com/burioden/AtCoder-quotation-adder/blob/main/script.user.js)
 
 
 ## 更新履歴
